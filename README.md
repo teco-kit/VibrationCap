@@ -2,7 +2,7 @@
 
 This repository contains the schematic and board files for the hardware used in the paper *"[VibrationCap: Studying Vibrotactile Localization on theHuman Head with an Unobtrusive Wearable Tactile Display](https://dl.acm.org/citation.cfm?doid=3123021.3123047 "VibrationCap")"* presented at the [ISWC '17](http://iswc.net/iswc17/ "ISWC 2017 Homepage") in Maui, Hawaii.
 
-If you use this hardware as part of your work, please consider citing our paper.
+If you use this hardware as part of your work, please consider [citing our paper](https://dl.acm.org/citation.cfm?doid=3123021.3123047 "VibrationCap").
 
 ## Contents
 

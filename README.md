@@ -7,7 +7,7 @@ If you use this hardware as part of your work, please consider citing our paper.
 ## Contents
 
 ### Hardware
-Schematics/Board files for the _BLE Module_ and _Vibration Module_.
+Schematics/Board files for the _BLE Module_ and _Vibration Module_. Can be opened in the free version of _EAGLE_.
 
 ### Firmware
-Firmware for programming the RedBear BLE Nano on the _BLE Module_.
+Firmware for programming the RedBear BLE Nano on the _BLE Module_. Can be opened in the _Arduino IDE_.
